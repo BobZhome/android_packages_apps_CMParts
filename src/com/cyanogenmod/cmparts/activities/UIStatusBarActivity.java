@@ -69,11 +69,7 @@ public class UIStatusBarActivity extends PreferenceActivity implements OnPrefere
 
     private CheckBoxPreference mStatusBarBrightnessControl;
 
-<<<<<<< HEAD
-    private CheckBoxPreference mStatusBarHeadset;
-=======
     private EditTextPreference mStatusBarCarrierLabelCustom;
->>>>>>> 5ed9b01... Custom carrier label (2/2)
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
